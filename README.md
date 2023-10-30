@@ -20,6 +20,12 @@ Error: The destination stream closed early.
 
 ## Development
 
+- Install dependencies
+
+  ```sh
+  npm run setup
+  ```
+
 - Start dev server:
 
   ```sh
